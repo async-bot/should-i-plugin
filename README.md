@@ -1,1 +1,1 @@
-# should-i-plugin
+# Should I? plugin
